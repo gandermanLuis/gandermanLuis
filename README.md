@@ -1,7 +1,7 @@
 # About me
 I am a senior at Texas State University working on obtaining a B.Sc. in Mathematics with Minors in Data Analytics and Biochemistry. 
 
-- 🔭 I’m currently working on obtaining a B.Sc. in Math
+- 🔭 I have a B.Sc. in Mathematics
 - 🌱 I’m currently learning SQL as well as some data visualization tools such as PowerBI and Tablue.
 
 - 📫 How to reach me: ldguzman0312@gmail.com
